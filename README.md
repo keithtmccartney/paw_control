@@ -37,7 +37,7 @@ Compiling ./contracts/Migrations.sol...
 Compiling ./contracts/Adoption.sol...
 Writing artifacts to ./build/contracts
 
-(Keep the terminals open, and on the second 'truffle compile' terminal) Run the following to "CD" to the working solution directory and run the following to compile the code:
+(Keep the terminals open, and on the second 'truffle compile' terminal) "CD" to the working solution directory and run the following to compile the code:
 
 * truffle migrate
 
