@@ -77,6 +77,4 @@ You'll see console output similar to this:
 ## Running the solution
 
 * [Installing and configuring MetaMask](http://truffleframework.com/tutorials/pet-shop#installing-and-configuring-metamask) ...The easiest way to interact with our dapp in a browser is through MetaMask, an extension for Chrome...
-* [Start the local web server] (Keep the terminals open, and on the second 'truffle compile' terminal) Run the following:
-
-* npm run dev
+* [Start the local web server] (Keep the terminals open, and on the second 'truffle compile' terminal) Run the following: npm run dev
